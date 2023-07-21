@@ -13,14 +13,6 @@ span {
   top: 20px;
   right: -20px;
 }
-main {
-  position: relative;
-}
-.barre {
-  position: absolute;
-  bottom: -20px;
-  left: 25%;
-}
 footer {
   background-color: rgba(27, 26, 26, 0.877);
 }
